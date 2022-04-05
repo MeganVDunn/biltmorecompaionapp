@@ -1,0 +1,25 @@
+/*
+Color Scheme
+Biltmore site gold #9c761c
+*/
+
+.display-1 {
+    text-align: center;
+    padding: 10px;
+    color: #9c761c;
+}
+
+.card-title {
+    color: #9c761c
+;
+}
+
+.container h2{
+    color: #9c761c;
+    padding-top: 10px;
+}
+
+.container h1 {
+    font-size: 60px;
+    padding-top: 10px;
+}
